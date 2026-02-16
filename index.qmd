@@ -1,0 +1,95 @@
+---
+title: ""
+format:
+  html:
+    theme: cosmo
+    toc: false
+    css: styles.css
+    ---
+---<div class="hero">
+
+# Joel Kurian
+
+MBA Candidate | Future Business Leader  
+
+</div>
+
+
+---
+
+---
+
+## About Me
+
+I am an MBA candidate with a professional background in strategic marketing and financial consulting. My experience bridges market positioning, pricing strategy, and client-focused financial planning, allowing me to approach business challenges from both growth and risk perspectives.
+
+I am focused on developing cross-functional leadership skills and strengthening my ability to make data-informed strategic decisions.
+
+---
+
+## Education
+
+**Master of Business Administration (MBA)**  
+[University Name – To Be Updated]  
+Expected Graduation: 2027  
+
+**Bachelor of Technology (B-Tech)**  
+Rajagiri School of Engineering and Technology  
+Completed: 2023  
+
+---
+
+## Professional Experience
+
+### Marketing Executive  
+Blue Bells Your Home Consultancy  
+2020 – 2024  
+
+- Developed and executed strategic marketing initiatives to enhance brand visibility and lead generation.  
+- Designed pricing strategies balancing revenue objectives and customer value.  
+- Collaborated with cross-functional teams to improve campaign effectiveness and sales alignment.  
+
+### Financial Service Consultant  
+Alpha Investment  
+2023 – 2024  
+
+- Developed customized financial strategies aligned with client goals and regulatory standards.  
+- Presented investment strategies including portfolio diversification and risk assessment insights.  
+- Strengthened client engagement through structured advisory communication.  
+
+---
+
+## Core Competencies
+
+### Strategic & Analytical
+- Market Analysis  
+- Financial Planning  
+- Risk Assessment  
+- Pricing Strategy  
+
+### Leadership & Business
+- Cross-Functional Collaboration  
+- Strategic Communication  
+- Client Relationship Management  
+
+---
+
+## Technical & Digital Skills
+
+- Microsoft Excel  
+- PowerPoint  
+- Marketing Analytics  
+- Financial Data Interpretation  
+- AI-assisted Business Research  
+
+---
+
+## Professional Vision
+
+I aim to grow as a future business leader by combining structured strategy, analytical thinking, and collaborative leadership to drive sustainable organizational performance.
+
+---
+
+
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
