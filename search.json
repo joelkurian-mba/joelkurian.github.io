@@ -1,5 +1,68 @@
 [
   {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Market Analysis\nMarketing Plan Development\nPricing Strategy\nFinancial Planning\nRisk Assessment"
+  },
+  {
+    "objectID": "skills.html#strategic-analytical-skills",
+    "href": "skills.html#strategic-analytical-skills",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Market Analysis\nMarketing Plan Development\nPricing Strategy\nFinancial Planning\nRisk Assessment"
+  },
+  {
+    "objectID": "skills.html#business-leadership-skills",
+    "href": "skills.html#business-leadership-skills",
+    "title": "Skills & Certifications",
+    "section": "Business & Leadership Skills",
+    "text": "Business & Leadership Skills\n\nCross-Functional Collaboration\nStrategic Communication\nClient Relationship Management\nSales Promotion"
+  },
+  {
+    "objectID": "skills.html#technical-digital-skills",
+    "href": "skills.html#technical-digital-skills",
+    "title": "Skills & Certifications",
+    "section": "Technical & Digital Skills",
+    "text": "Technical & Digital Skills\n\nMicrosoft Excel\nPowerPoint\nMarketing Analytics\nFinancial Data Interpretation\nAI-assisted Business Research"
+  },
+  {
+    "objectID": "skills.html#certifications",
+    "href": "skills.html#certifications",
+    "title": "Skills & Certifications",
+    "section": "Certifications",
+    "text": "Certifications\nFood Safe Level 1 Certified"
+  },
+  {
+    "objectID": "skills.html#languages",
+    "href": "skills.html#languages",
+    "title": "Skills & Certifications",
+    "section": "Languages",
+    "text": "Languages\nEnglish\nMalayalam\nHindi"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "📧 Email\njoelksa@gmail.com\n📞 Phone\n+1 236 688 6951\n📍 Location\nVancouver, Canada\n🔗 LinkedIn"
+  },
+  {
+    "objectID": "contact.html#contact-information",
+    "href": "contact.html#contact-information",
+    "title": "Contact",
+    "section": "",
+    "text": "📧 Email\njoelksa@gmail.com\n📞 Phone\n+1 236 688 6951\n📍 Location\nVancouver, Canada\n🔗 LinkedIn"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Joel Kurian | MBA Candidate",
@@ -54,12 +117,5 @@
     "title": "Joel Kurian | MBA Candidate",
     "section": "Contact",
     "text": "Contact\n\n📧 Email: joelksa@gmail.com\n🔗 LinkedIn: https://linkedin.com/in/yourprofile\n📍 Vancouver, Canada\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   }
 ]

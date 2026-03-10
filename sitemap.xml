@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://joelkurian-mba.github.io/joelkurian.github.io/index.html</loc>
-    <lastmod>2026-02-17T03:38:40.857Z</lastmod>
+    <loc>https://joelkurian-mba.github.io/joelkurian.github.io/skills.html</loc>
+    <lastmod>2026-03-10T01:46:50.534Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joelkurian-mba.github.io/joelkurian.github.io/projects.html</loc>
+    <lastmod>2026-03-10T01:23:15.024Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joelkurian-mba.github.io/joelkurian.github.io/contact.html</loc>
+    <lastmod>2026-03-10T01:38:59.948Z</lastmod>
   </url>
   <url>
     <loc>https://joelkurian-mba.github.io/joelkurian.github.io/about.html</loc>
     <lastmod>2026-02-16T17:38:03.217Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joelkurian-mba.github.io/joelkurian.github.io/index.html</loc>
+    <lastmod>2026-02-17T03:38:40.857Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joelkurian-mba.github.io/joelkurian.github.io/resume.html</loc>
+    <lastmod>2026-03-10T01:22:52.301Z</lastmod>
   </url>
 </urlset>
